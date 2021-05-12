@@ -1,0 +1,19 @@
+{
+    "hp": 100.0,
+    "stamina": 100.0,
+    "dashTimer": 0.0,
+    "meleeDamage": 1.0,
+    "currentGun": 0,
+    "currentScore": 1265.0,
+    "killNumber": 20.0,
+    "totalLevelTime": 36.448219299316409,
+    "position": {
+        "x": 10.502235412597657,
+        "y": -5.920000076293945,
+        "z": 245.4004669189453
+    },
+    "rotationY": 302.6722106933594,
+    "gun1ID": 4,
+    "gun2ID": -1,
+    "currentCheckPoint": 2
+}
